@@ -75,6 +75,20 @@ The relationship between age and readmission was non-linear, while the differenc
 
 Length of hospital stay, number of medications, and laboratory procedure counts also showed varying associations with readmission.
 
+## Key Visualizations
+
+### Previous Inpatient Visits and 30-Day Readmission
+
+![Readmission Rate by Previous Inpatient Visits](images/inpatient_readmission.png)
+
+### Primary Diagnosis Categories
+
+![Readmission Rate by Primary Diagnosis Category](images/diagnosis_readmission.png)
+
+### Previous Inpatient Visits and Recorded Diagnoses
+
+![Readmission Rate Heatmap](images/readmission_heatmap.png)
+
 ## Limitations
 
 Although the analysis revealed several interesting patterns, there are important limitations to consider.
@@ -112,3 +126,4 @@ To reproduce the results:
 3. Run the notebook from beginning to end using Jupyter Notebook or VS Code.
 
 This project is intended for exploratory healthcare data analysis and should not be used for clinical decision-making.
+
