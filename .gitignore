@@ -1,0 +1,13 @@
+
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+venv/
+.env
+
+# Original datasets and reference files
+data/
+references/
+# Earlier working notebook
+/readmission_analysis.ipynb
